@@ -1,1 +1,3 @@
 # MLAI
+
+This GitHub repository is dedicated to providing educational resources and projects related to the fields of Machine Learning and Artificial Intelligence. It covers various topics such as supervised and unsupervised learning, deep learning, computer vision, and natural language processing. The repository contains a range of materials such as tutorials, articles, and practical projects designed to help you build a solid foundation in these cutting-edge technologies. Whether you're a beginner or an experienced developer, this repository is an excellent resource for anyone looking to expand their knowledge and skills in these rapidly growing fields.
